@@ -36,7 +36,7 @@ export function PortfolioComponent() {
               className="rounded-full"
             />
             <div>
-              <h2 className="text-4xl font-bold mb-4">Hello, I'm John Doe</h2>
+              <h2 className="text-4xl font-bold mb-4">Hello, I&apos;m John Doe</h2>
               <p className="text-xl mb-4">A passionate full-stack developer with a love for creating beautiful and functional web applications.</p>
               <Button>Download CV</Button>
             </div>
@@ -85,7 +85,7 @@ export function PortfolioComponent() {
           <Card>
             <CardContent className="flex flex-col items-center space-y-4 p-6">
               <p className="text-center mb-4">
-                I'm always open to new opportunities and collaborations. Feel free to reach out!
+                I&apos;m always open to new opportunities and collaborations. Feel free to reach out!
               </p>
               <div className="flex space-x-4">
                 <Button variant="outline" size="icon">
